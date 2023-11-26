@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Naitik Rathi\Naitik Rathi\EDU\Other Languages\C++\MazeGame\build\CMakeFiles\db601bb9606da7ece7ae07819b51564c\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{EDC0B589-97C9-303D-AD2D-66E8D70A3C37}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

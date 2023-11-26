@@ -1,0 +1,10 @@
+^D:\NAITIK RATHI\NAITIK RATHI\EDU\OTHER LANGUAGES\C++\MAZEGAME\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SD:/Naitik Rathi/Naitik Rathi/EDU/Other Languages/C++/MazeGame" "-BD:/Naitik Rathi/Naitik Rathi/EDU/Other Languages/C++/MazeGame/build" --check-stamp-file "D:/Naitik Rathi/Naitik Rathi/EDU/Other Languages/C++/MazeGame/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
